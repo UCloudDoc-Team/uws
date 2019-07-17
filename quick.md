@@ -55,9 +55,11 @@ content="6f93dacb7bae03d4ea95e5d6b45d0dc8" /> </head>
 
 参数说明
 
-| 参数        | 说明                                                                     |
+| 参数        | 说明        |
 | --- | --- |
-| 扫描站点      | 仅能够选择已经验证成功的站点         |
-| 高级设置      | 当有需要登录的页面或者指定特殊的User-Agent页面进行扫描时使用。     |
-| 站点cookie  | web扫描时，网站站点cookie。如果需要登录扫描的用户需要填此字段，cookie有效期是由网站服务端控制，所以可能会出现正式扫描时cookie过期的情况                                  |
+| 扫描站点 | 仅能够选择已经验证成功的站点         |
+| 高级设置 | 当有需要登录的页面或者指定特殊的User-Agent页面进行扫描时使用。|
+| 站点cookie  | web扫描时，网站站点cookie。如果需要登录扫描的用户需要填此字段，cookie有效期是由网站服务端控制，所以可能会出现正式扫描时cookie过期的情况 |
 | UserAgent | web扫描时，自定义User-Agent默认为Mozilla/5.0 (Windows; U; Windows NT 6.1; zh-CN; rv:1.9.2.4) Gecko/20100611 Firefox/3.6.4 |
+
+
