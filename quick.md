@@ -10,7 +10,7 @@
 
 进入系统后点击“域名管理”页签，先创建需要扫描漏洞的域名。
 
-![](./images/uws1.png)
+![](/images/uws1.png)
 
 选择http或者https，并填写站点域名，点击【验证站长权限】后，将会生成域名对应的验证代码。
 
@@ -43,15 +43,15 @@ content="6f93dacb7bae03d4ea95e5d6b45d0dc8" /> </head>
 
 域名创建成功并且验证通过后，到“任务管理”页面购买任务次数。
 
-![](./images/uws2.png)
+![](/images/uws2.png)
 
 根据需要选择次数，付费成功后回到“任务管理”页面。
 
 ## 3.创建扫描任务
 
-![](./images/uws3.png)
+![](/images/uws3.png)
 
-![](./images/uws4.png)
+![](/images/uws4.png)
 
 参数说明
 
