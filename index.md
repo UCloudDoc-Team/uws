@@ -1,4 +1,4 @@
-{{indexmenu_n>10}}
+
 
 # WEB漏洞扫描系统 UWS
 
@@ -6,4 +6,4 @@
 
 该服务支持远程扫描多种系统漏洞和按照国际权威安全机构WASC分类的25种Web应用漏洞，全面覆盖OWASP Top 10 Web应用风险。
 
-{{indexmenu>:security:uws_robot#1|tsort nsort}}
+
