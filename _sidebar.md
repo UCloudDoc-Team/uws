@@ -1,13 +1,16 @@
-<div class="sidebar_title icon__uws"> WEB漏洞扫描系统 UWS</div>
+WEB漏洞扫描系统 UWS
 
-* [概览](security/uws_robot/overview)
-* [产品简介](security/uws_robot/concept)
-* [快速上手](security/uws_robot/quick)
+* [产品简介](/uws/concept)
+* [产品价格](/uws/price)
+* [快速上手](/uws/quick)
 * 操作指南
-    * [1、任务管理](security/uws_robot/operation/tasks)
-    * [2、域名管理](security/uws_robot/operation/domains)
-* [产品价格](security/uws_robot/price)
-* [漏洞扫描协议](security/uws_robot/agreement)
+    * [安全概览](/uws/operation/sec)
+    * [域名管理](/uws/operation/tasks)
+    * [任务管理](/uws/operation/domains)
+* 接口说明
+    * [接口1 - 墨云科技](/uws/interface/moyun)
+    * [接口2 - 嘉韦思](/uws/interface/jiaweisi)
+* [漏洞扫描使用须知](/uws/agreement)
 
    
     
