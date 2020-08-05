@@ -8,8 +8,8 @@ WEB漏洞扫描系统 UWS
     * [域名管理](/uws/operation/tasks)
     * [任务管理](/uws/operation/domains)
 * 接口说明
-    * [接口1 - 墨云科技](/uws/interface/moyun)
-    * [接口2 - 嘉韦思](/uws/interface/jiaweisi)
+    * [接口1 - 墨云科技](/uws/Interface/moyun)
+    * [接口2 - 嘉韦思](/uws/Interface/jiaweisi)
 * [漏洞扫描使用须知](/uws/agreement)
 
    
