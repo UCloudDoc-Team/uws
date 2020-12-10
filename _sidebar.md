@@ -1,4 +1,3 @@
-<div class="sidebar_title"> WEB漏洞扫描系统 UWS</div> 
 
 * [产品简介](/uws/concept)
 * [产品价格](/uws/price)
