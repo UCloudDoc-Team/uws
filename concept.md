@@ -17,7 +17,7 @@ UWS（Web漏洞扫描）适用于客户准备进行网站信息系统安全等�
 * 覆盖Ajax、Flash、JavaScript等Web2.0环境
 * 支持PHP、ASP、.NET和Java等编程语言
 * 支持IIS、Apache、Nginx、Tomcat等Web服务器
-* 支持各种静态页面（后缀名为：html、htm等）和动态页面（后缀名为：asp、jsp、php、asp、jsp、php、aspx、phtml、shtml、xhtml、do等）
+* 支持各种静态页面（后缀名为：html、htm等）和动态页面（后缀名为：asp、jsp、php、aspx、phtml、shtml、xhtml、do等）
 * 支持Flash攻击检测、复杂字符编码、会话令牌管理、多种认证方式（Basic、NTLM、Cookie、SSL等）
 * 支持代理扫描，HTTPS扫描等
 
